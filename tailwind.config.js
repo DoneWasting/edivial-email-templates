@@ -17,6 +17,9 @@ module.exports = {
         'lato': ['Lato', 'sans-serif'],
         'crimson': ['Crimson Pro', 'serif'],
       },
+      fontSize:{
+        'xxxs': '9px'
+      },
       backgroundImage: {
         'hero': "url('/images/miamiView.jpg')",
         'footer-texture': "url('/img/footer-texture.png')",
