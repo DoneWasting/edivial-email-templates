@@ -22,7 +22,9 @@ module.exports = {
         'footer-texture': "url('/img/footer-texture.png')",
       },
       width: {
+        '15%': '15%',
         '45%': '45%',
+        '47%': '47%',
         '90': '22.5rem',
         '96': '24rem',
         '104': '26rem',
